@@ -1,0 +1,34 @@
+h1{
+    background-color: peachpuff;
+}
+body{
+    background-color: greenyellow;
+}
+#score{
+    font-size: 30px;
+margin-right: 1000px;
+font-weight: bold;
+}
+#timer{
+    font-size: 30px;
+    margin-left: 1000px;
+    font-weight: bold;
+    
+}
+#sketch_to_be_drawn{
+    font-size: 25px;
+    color: red;
+}
+#yoursketch{
+    font-size: 25px;
+    font-weight: bold;
+}
+#confidence{
+    font-size: 25px;
+    font-weight: bold;
+}
+
+canvas{
+    margin-top: 100px;
+}
+
